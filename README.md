@@ -20,7 +20,25 @@ GamePlay é um projeto react native construido com typescript durante a NLW-toge
 - Expo
 
 # Como executar o projeto
-Pré-requisitos: NodeJS -> https://nodejs.org/en/
+Pré-requisitos:
+- NodeJS -> https://nodejs.org/en/
+- Expo -> https://expo.io/
+- Android Studio (caso queira usar o emulador do android) -> https://developer.android.com/studio
 
 ```bash
 # clonar repositório
+git clone https://github.com/Zerainha/gameplay
+
+# entrar na pasta do projeto gameplay
+cd gameplay
+
+# executar a instalação dos pacotes
+## Yarn
+yarn install
+
+## Npm
+npm install
+
+# executar o projeto com o expo
+expo start
+```
