@@ -20,3 +20,7 @@ GamePlay é um projeto react native construido com typescript durante a NLW-toge
 - Expo
 
 # Como executar o projeto
+Pré-requisitos: NodeJS -> https://nodejs.org/en/
+
+```bash
+# clonar repositório
