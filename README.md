@@ -18,3 +18,5 @@ GamePlay é um projeto react native construido com typescript durante a NLW-toge
 - React context api
 - Discord api
 - Expo
+
+# Como executar o projeto
