@@ -32,7 +32,7 @@ git clone https://github.com/Zerainha/gameplay
 # entrar na pasta do projeto gameplay
 cd gameplay
 
-# executar a instalação dos pacotes
+# executar a instalação dos pacotes com o yarn ou npm
 ## Yarn
 yarn install
 
@@ -42,3 +42,11 @@ npm install
 # executar o projeto com o expo
 expo start
 ```
+Abra o seu emulador android pelo Android Studio e espere o expo inicializar o projeto. Quando inicializar, ele irá abrir uma janela do seu navegador igual a imagem abaixo.
+
+![ExpoImg](https://github.com/Zerainha/assets/blob/main/imagesdogameplay/TelaExpo%20(2).png)
+
+Clique em "Run on Android device/emulator" para abrir o projeto no emulador.
+
+# Autor
+Breno Leirião Neto
